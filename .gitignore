@@ -1,0 +1,6 @@
+*.class
+out/
+data/
+tempCodeRunnerFile.java
+**/logs/
+**/folder-report.txt
